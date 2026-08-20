@@ -21,11 +21,10 @@ A smart industrial automation dashboard designed to monitor robot status, manage
 
 ---
 
-### 📸 Project Preview
+## 📷 Project Preview
 
-| Dashboard Overview | Analytics Insights | Simulation View |
-| :---: | :---: | :---: |
-| ![Dashboard](assets/dashboard.jpg) | ![Analytics](assets/analytics.png) | ![Simulation](assets/simulation.jpg) |
+### Industry Overview & Data Insights
+<img src="factory-flow.jpg" alt="Industry Overview & Data Insights" width="100%"/>
 
 ---
 
